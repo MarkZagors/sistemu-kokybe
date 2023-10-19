@@ -1,3 +1,5 @@
+<?php
+
 class u {
   public $id;
   public $n;
